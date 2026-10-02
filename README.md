@@ -1,5 +1,7 @@
 # Brain Dump downloads
 
+[Visit the website](https://brain-dump-desktop.vercel.app)
+
 A little space for a busy mind. Brain Dump brings task planning, sticky notes,
 checklists, and per-task whiteboards together in a personal desktop workspace.
 Your work is saved locally on your device.
